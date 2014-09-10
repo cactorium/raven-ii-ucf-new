@@ -23,3 +23,7 @@ msg_gen/**
 .project
 .cproject
 .project
+
+bin/*
+CMakeFiles/*
+CMakeCache.txt
